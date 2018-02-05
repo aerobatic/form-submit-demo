@@ -1,6 +1,6 @@
 # Aerobatic form-submit plugin demo
 
-See this demo live at [https://form-submit-demo.aerobatic.io](https://form-submit-demo.aerobatic.io). Read the complete [form-submit plugin docs](https://www.aerobatic.com/docs/plugins/form-submit).
+See this demo live at [https://form-submit-demo.aerobaticapp.com](https://form-submit-demo.aerobaticapp.com). Read the complete [form-submit plugin docs](https://www.aerobatic.com/docs/plugins/form-submit).
 
 ### Running this demo yourself
 
