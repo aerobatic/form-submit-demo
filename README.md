@@ -6,7 +6,7 @@ See this demo live at [https://form-submit-demo.aerobaticapp.com](https://form-s
 
 * Clone this repo
 * From root of repo run `aero create -n your-site-name`
-* Visit [https://www.google.com/recaptcha/admin](https://www.google.com/recaptcha/admin) and register a reCAPTCHA. In the **Domains** box, enter `aerobatic.io`.
+* Visit [https://www.google.com/recaptcha/admin](https://www.google.com/recaptcha/admin) and register a reCAPTCHA. In the **Domains** box, enter `aerobaticapp.com`.
 * Expand the **Keys**, copy the **Site key**, and paste into both `standard-form.html` and `ajax-form.html` here:
   ~~~html
   <div class="g-recaptcha"
@@ -27,7 +27,7 @@ See this demo live at [https://form-submit-demo.aerobaticapp.com](https://form-s
       recipients: [your-email@email.com]
   ~~~
 * Run `aero deploy` and wait for it to complete
-* Go see your site at `https://your-site-name.aerobatic.io`
+* Go see your site at `https://your-site-name.aerobaticapp.com`
 * Fill out the form and you should receive an email with the form values.
 
 ## Testing the Google Sheets integration
